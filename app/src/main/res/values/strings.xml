@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parkappplease</string>
+    <string name="button">Log-in</string>
+    <string name="pass">Enter Password</string>
+    <string name="phone">Enter Phone no.</string>
+    <string name="text1">Enter Phone no.</string>
+    <string name="text2">Enter Password</string>
+    <string name="forgotpass">Forgot password?</string>
+    <string name="photo">photo</string>
+    <string name="fakenull">" "</string>
+    <string name="Destination" font="Gugi">"Destination"</string>
+    <string name="already_there">Already there?</string>
+</resources>
