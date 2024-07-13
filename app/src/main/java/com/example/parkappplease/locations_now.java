@@ -2,6 +2,7 @@ package com.example.parkappplease;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -24,4 +25,9 @@ public class locations_now extends AppCompatActivity {
 
         Intent intent = getIntent();
     }
+
+    public void bookf(View view) {
+        Intent intent = new Intent(this, book.class);
+        startActivity(intent);}
+
 }

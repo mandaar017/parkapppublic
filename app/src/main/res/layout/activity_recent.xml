@@ -120,6 +120,7 @@
                     android:layout_height="59dp"
                     android:layout_marginVertical="35dp"
                     android:layout_marginLeft="260dp"
+                    android:onClick="bookf"
                     app:srcCompat="@drawable/reload" />
 
 

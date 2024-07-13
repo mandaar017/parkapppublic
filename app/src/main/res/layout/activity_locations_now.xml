@@ -145,6 +145,7 @@
                     android:layout_marginVertical="35dp"
                     android:layout_marginLeft="250dp"
                     android:fontFamily="@font/gugi"
+                    android:onClick="bookf"
                     android:text="Book" />
 
 
